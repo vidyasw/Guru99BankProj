@@ -1,0 +1,30 @@
+Setup called........
+1validationNavigation called
+2
+Current username: mngr287834
+Current Password: sEjUnuh
+Timeout Exception for alert: when credentials are right alert will not pop up ignore exception message  TimeoutException
+Login is successful
+Completed Iteration with excel row no : 2
+Exception from Closing popup: TimeoutException
+Error in Common_Package.BankApp_CommonFunctons on line 131  TimeoutException Message: 
+
+Bank app logout
+3
+Current username: mngr287835
+Current Password: sEjUnuh
+Login Failed with : User or Password is not valid
+Completed Iteration with excel row no : 3
+4
+Current username: mngr287834
+Current Password: sEjUnui
+Login Failed with : User or Password is not valid
+Completed Iteration with excel row no : 4
+5
+Current username: mngr287834
+Current Password: sEjUnuh
+Timeout Exception for alert: when credentials are right alert will not pop up ignore exception message  TimeoutException
+Login is successful
+Completed Iteration with excel row no : 5
+Bank app logout
+teardown called........

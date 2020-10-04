@@ -1,0 +1,25 @@
+Setup called........
+6add_account called............
+Timeout Exception for alert: when credentials are right alert will not pop up ignore exception message  TimeoutException
+Login is successful
+Login validation is successful with mngr287834
+Clicked successfully on:  new account
+
+Getting Information from :  LastAdded_CustID.txt
+cust_id file Absolute Path :  E:\Vidyashri\PythonSeleniumProjects\Guru99BankProj\Common_Package\LastAdded_CustID.txt
+Reading cust_id from File
+['Custmer Id : 16812']
+16812
+Current 3000
+Added Account successfully
+
+Writing cust_id and acc_id Information : 
+cust_id file Name :  LastAdded_AccountID_CustID.txt
+cust_id file Absolute Path :  E:\Vidyashri\PythonSeleniumProjects\Guru99BankProj\Common_Package\LastAdded_AccountID_CustID.txt
+Writing to cust_id,acc_id into File
+Reginald Vasquez is matching Of id 16812 from Customer_ID
+kirbycheryl@gmail.com is matching of id 16812 from Customer_ID
+Initial amount added 3000
+Validation is done for added account 84446 of type Current Successfully!!!
+Bank app logout
+teardown called........

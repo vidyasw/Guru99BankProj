@@ -1,0 +1,27 @@
+Setup called........
+7edit_account called........
+Timeout Exception for alert: when credentials are right alert will not pop up ignore exception message  TimeoutException
+Login is successful
+Login validation is successful with mngr287834
+Exception from Closing popup: TimeoutException
+Error in Common_Package.BankApp_CommonFunctons on line 131  TimeoutException Message: 
+
+Clicked successfully on Menu :  Edit Account
+
+Getting Information from :  LastAdded_AccountID_CustID.txt
+cust_id file Absolute Path :  E:\Vidyashri\PythonSeleniumProjects\Guru99BankProj\Common_Package\LastAdded_AccountID_CustID.txt
+Reading cust_id from File
+['Custmer Id : 16812\n', 'Account Id : 84446']
+84446
+True
+List item: Current
+Current account type has selected in account combo
+Present Account type is: Current
+To update with : Savings
+Account details updated Successfully!!!
+After Update: Savings
+Account type got updated in Bank app with Savings
+col,row: B 80
+New account type got updated in excel with type Savings
+Bank app logout
+teardown called........

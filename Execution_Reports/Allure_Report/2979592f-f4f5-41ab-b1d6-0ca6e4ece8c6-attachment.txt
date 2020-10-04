@@ -1,0 +1,23 @@
+Setup called........
+1validationNavigation called
+2
+Current username: mngr279012
+Current Password: zavumAh
+Login Failed with : User or Password is not valid
+Completed Iteration with excel row no : 2
+3
+Current username: mngr279013
+Current Password: zavumAh
+Login Failed with : User or Password is not valid
+Completed Iteration with excel row no : 3
+4
+Current username: mngr279013
+Current Password: zavumAi
+Login Failed with : User or Password is not valid
+Completed Iteration with excel row no : 4
+5
+Current username: mngr279013
+Current Password: zavumAH
+Login Failed with : User or Password is not valid
+Completed Iteration with excel row no : 5
+teardown called........

@@ -1,0 +1,18 @@
+Setup called........
+4edit_customer................
+Timeout Exception for alert: when credentials are right alert will not pop up ignore exception message  TimeoutException
+Login is successful
+Login validation is successful with mngr287834
+Clicked successfully on Menu :  Edit Customer
+
+Getting Information from :  LastAdded_CustID.txt
+cust_id file Absolute Path :  E:\Vidyashri\PythonSeleniumProjects\Guru99BankProj\Common_Package\LastAdded_CustID.txt
+Reading cust_id from File
+['Custmer Id : 16812']
+16812
+ID has Searched?: True
+Customer details updated Successfully!!!
+New Address got updated in Bank app for 16812
+New Address got updated in excel for 16812
+Bank app logout
+teardown called........

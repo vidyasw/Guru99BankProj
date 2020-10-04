@@ -1,0 +1,46 @@
+Setup called........
+2menu_click_Validation_in_sequence called........
+Timeout Exception for alert: when credentials are right alert will not pop up ignore exception message  TimeoutException
+Login is successful
+Login validation is successful with mngr287834
+Exception from Closing popup: TimeoutException
+Error in Common_Package.BankApp_CommonFunctons on line 131  TimeoutException Message: 
+
+Key: Manag
+Value: Manager
+Clicked successfully on Menu :  Manager
+Exception from Closing popup: TimeoutException
+Error in Common_Package.BankApp_CommonFunctons on line 131  TimeoutException Message: 
+
+Key: New Cust
+Value: New Customer
+Clicked successfully on Menu :  New Customer
+Exception from Closing popup: TimeoutException
+Error in Common_Package.BankApp_CommonFunctons on line 131  TimeoutException Message: 
+
+Key: Edit Cust
+Value: Edit Customer
+Clicked successfully on Menu :  Edit Customer
+Exception from Closing popup: TimeoutException
+Error in Common_Package.BankApp_CommonFunctons on line 131  TimeoutException Message: 
+
+Key: Delete Cust
+Value: Delete Customer
+Clicked successfully on Menu :  Delete Customer
+Exception from Closing popup: TimeoutException
+Error in Common_Package.BankApp_CommonFunctons on line 131  TimeoutException Message: 
+
+Key: New Acc
+new account
+Failed to click : new account
+Exception from Closing popup: TimeoutException
+Error in Common_Package.BankApp_CommonFunctons on line 131  TimeoutException Message: 
+
+Key: Edit Acc
+Value: Edit Account
+Exception found in menu_click_sequence method ElementClickInterceptedException
+Error in menu_click_sequence method on line 64 ElementClickInterceptedException Message: element click intercepted: Element <a href="editAccount.php">...</a> is not clickable at point (120, 495). Other element would receive the click: <body onload="document.fbal.txtaccno.select();">...</body>
+  (Session info: chrome=85.0.4183.121)
+
+Bank app logout
+teardown called........

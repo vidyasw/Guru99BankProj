@@ -1,0 +1,17 @@
+Setup called........
+3add_customer called..........
+Timeout Exception for alert: when credentials are right alert will not pop up ignore exception message  TimeoutException
+Login is successful
+Login validation is successful with mngr287834
+Clicked successfully on Menu :  New Customer
+{0: {'Date of Birth': '01-12-1989', 'Phone No': '0161 4960270', 'Profile': {'username': 'baileylori', 'name': 'Stephen Lewis', 'sex': 'M', 'address': '730 Sherry Port\nSchaeferville, SC 63637', 'mail': 'markwallace@gmail.com', 'birthdate': datetime.date(1992, 1, 26)}}}
+Gender M got selected
+Customer registered successfully
+
+Writing Custmer_id Information : 
+cust_id file Name :  LastAdded_CustID.txt
+cust_id file Absolute Path :  E:\Vidyashri\PythonSeleniumProjects\Guru99BankProj\Common_Package\LastAdded_CustID.txt
+Writing to cust_id into File
+Validation is done for added customer with id 60573 Stephen Lewis Successfully!!!
+Bank app logout
+teardown called........
