@@ -1,5 +1,5 @@
 # import unittest
-import xlrd
+# import xlrd
 from openpyxl import load_workbook
 import openpyexcel
 
